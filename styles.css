@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, nav, section, footer {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+nav {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
